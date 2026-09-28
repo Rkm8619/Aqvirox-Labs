@@ -1,2 +1,2 @@
-# nexora-labs
-Nexora Labs - AI, Web, Data &amp; Automation
+# Aqvexa Labs
+Aqvexa Labs - AI, Web, Data &amp; Automation

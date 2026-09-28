@@ -1,5 +1,5 @@
 // =========================================
-// NEXORA LABS
+// Aqvirox Labs
 // JavaScript
 // =========================================
 
@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // =====================================
 
     console.log(
-        "Nexora Labs | AI • Web • Data • Automation"
+        "Aqvirox Labs | AI • Web • Data • Automation"
     );
 
         // =====================================

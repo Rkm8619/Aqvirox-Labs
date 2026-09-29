@@ -1,2 +1,2 @@
-# Aqvexa Labs
-Aqvexa Labs - AI, Web, Data &amp; Automation
+# Aqvirox Labs
+Aqvirox Labs - AI, Web, Data &amp; Automation
